@@ -1,1 +1,7 @@
 #!/usr/bin/env ruby
+
+puts = "character"
+
+# Exemple de conversion en minuscules
+texte = "BONJOUR , TOUT LE MONDE"
+texte_en_minuscule = texte.downcase

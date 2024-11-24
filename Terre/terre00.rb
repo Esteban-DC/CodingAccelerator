@@ -6,7 +6,4 @@ puts "&#65;"
 puts ""
 puts "098"
 
-if 
-  
-else
-end
+i
