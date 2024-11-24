@@ -5,3 +5,5 @@ puts = "character"
 # Exemple de conversion en minuscules
 texte = "BONJOUR , TOUT LE MONDE"
 texte_en_minuscule = texte.downcase
+
+puts texte_en_minuscule  # Résultat : "bonjour tout le monde"

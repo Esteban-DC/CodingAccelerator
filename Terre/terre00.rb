@@ -6,4 +6,25 @@ puts "&#65;"
 puts ""
 puts "098"
 
-i
+# Exemple de conversion en minuscules
+texte = "BONJOUR , TOUT LE MONDE"
+texte_en_minuscule = texte.downcase
+
+puts texte_en_minuscule  # Résultat : "bonjour tout le monde"
+
+# Retour à la ligne
+puts "Première ligne\nDeuxième ligne"
+
+#Interpolation avec des retours à la ligne 
+ligne1 = "Première ligne"
+ligne2 = "Deuxième ligne"
+puts "#{ligne1}\n#{ligne2}"
+
+#Chaîne multi-ligne : Utilisez des guillemets triples (<<~TEXT) 
+message = <<~TEXT
+Première ligne
+Deuxième ligne
+Troisième ligne
+TEXT
+
+puts message
