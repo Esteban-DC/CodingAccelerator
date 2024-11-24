@@ -7,3 +7,13 @@ texte = "BONJOUR , TOUT LE MONDE"
 texte_en_minuscule = texte.downcase
 
 puts texte_en_minuscule  # Résultat : "bonjour tout le monde"
+
+#Chaîne multi-ligne : Utilisez des guillemets triples (<<~TEXT) 
+message = <<~TEXT
+Première ligne
+Deuxième ligne
+Troisième ligne
+TEXT
+
+puts message
+
