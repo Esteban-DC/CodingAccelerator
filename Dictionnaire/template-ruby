@@ -1,5 +1,22 @@
 #!/usr/bin/env ruby
 
+# DOC RUBY : https://ruby-doc.org/3.3.5/
+
+# irb pour lancer interpreteur interactif
+
+# Mettre chmod +x monfichier.rb
+
+# Type Primaire :
+
+#1. Les Entiers
+6 + 4
+2 ** 4 #** pour faire puissance
+
+#2. Les Chaines de 'Caractères' ""
+#sting 
+
+#3. Les Booléens Exemple true ou false
+
 puts = "character"
 
 # Exemple de conversion en minuscules

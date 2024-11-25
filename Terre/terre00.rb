@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 puts "Hello world"
 puts "a,b,c,d,e,g,h"
 
