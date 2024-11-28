@@ -24,3 +24,4 @@ class integer
 # Héritage Multiple
 
 
+puts "Hello World"
