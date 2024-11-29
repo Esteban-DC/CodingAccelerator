@@ -2,7 +2,8 @@
 
 puts "Hello world"
 puts "a,b,c,d,e,g,h"
-
+puts 97.chr
+puts 122.chr
 
 puts "&#65;" 
 puts ""
@@ -29,4 +30,4 @@ Deuxième ligne
 Troisième ligne
 TEXT
 
-puts message
+

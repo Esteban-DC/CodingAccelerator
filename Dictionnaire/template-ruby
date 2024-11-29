@@ -34,3 +34,20 @@ TEXT
 
 puts message
 
+# ASCII puts
+puts 97.chr
+puts 122.chr
+
+#Les Boucles ( Attention WHILE , Rajouter true)
+i= 0
+while i < 10
+  i = i + 1
+  puts i
+end
+
+# While Avec True 
+i= 0
+while true
+  i = i + 1
+  puts i
+end
